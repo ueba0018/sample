@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">BMI計算アプリ</string>
+    <string name="height">身長(cm)</string>
+    <string name="weight">体重(kg)</string>
+    <string name="calculate">計算する</string>
+    <string name="bmi">あなたのBMIは%sです。</string>
 </resources>
